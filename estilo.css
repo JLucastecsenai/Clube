@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+}
+h1, p, h2, h3, a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo{
+    text-align: center;
+}
+.banner{
+    text-align: center;
+    border-bottom: 4px solid #e0f6fa ;
+    border-top: 4px solid #e0f6fa;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.img_banner{
+ width: 100%;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+span{
+    color: #409dd4;
+}
+.sobre{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    text-align: justify;
+}
+.texto1{
+    border-left: solid 3px rgba(40,40,40,255);
+    text-align: justify;
+    
+}
+.piscinas{
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.img_piscina{
+    border: #0ca8f9 10px solid;
+    width: 100%;
+}
+.texto2{
+    text-align: justify;
+}
+.img_coberta{
+    width: 100%;
+    border: #0ca8f9 10px solid;
+}
+.area_cobertas{
+    margin-left: 20%;
+    margin-right: 20%;
+}
